@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TikTokLiveDotNet", "TikTokLiveDotNet\TikTokLiveDotNet.csproj", "{E0BDCAA3-A8BD-430D-8582-06791BC79380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TikTokLiveDotNet.Example", "TikTokLiveDotNet.Example\TikTokLiveDotNet.Example.csproj", "{D1026A48-290D-4213-9D3D-5E1D4040A3C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BDCAA3-A8BD-430D-8582-06791BC79380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BDCAA3-A8BD-430D-8582-06791BC79380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BDCAA3-A8BD-430D-8582-06791BC79380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BDCAA3-A8BD-430D-8582-06791BC79380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1026A48-290D-4213-9D3D-5E1D4040A3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1026A48-290D-4213-9D3D-5E1D4040A3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1026A48-290D-4213-9D3D-5E1D4040A3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1026A48-290D-4213-9D3D-5E1D4040A3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92EEE781-39E1-4DAB-A1C5-8D298620251B}
+	EndGlobalSection
+EndGlobal

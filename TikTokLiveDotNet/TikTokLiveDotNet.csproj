@@ -3,8 +3,15 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Nullable>enable</Nullable>
-	<LangVersion>latest</LangVersion>
-	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <LangVersion>latest</LangVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>0.0.1</Version>
+    <PackageProjectUrl>https://github.com/uaspro/TikTokLiveDotNet</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageTags>TikTok;Live;Stream;</PackageTags>
+    <Description>TikTok live stream client</Description>
   </PropertyGroup>
 
   <ItemGroup>

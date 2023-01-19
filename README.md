@@ -28,4 +28,4 @@ await tikTokLiveStreamClient.Connect();
 ```
 
 # Examples
-Example project here - [TikTokLiveDotNet.Example](https://github.com/uaspro/TikTokLiveDotNet/tree/uaspro/add-readme/TikTokLiveDotNet.Example)
+Example project here - [TikTokLiveDotNet.Example](https://github.com/uaspro/TikTokLiveDotNet/tree/main/TikTokLiveDotNet.Example)

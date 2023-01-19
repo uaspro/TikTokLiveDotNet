@@ -1,5 +1,6 @@
 # TikTokLiveDotNet
 This library provides an ability to subscribe and act on TikTok Live stream events (chat messages, gifts, etc.).
+
 Ispired by [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) and [TikTokLiveSharp](https://github.com/sebheron/TikTokLiveSharp).
 
 # Usage

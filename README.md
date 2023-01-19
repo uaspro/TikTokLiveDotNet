@@ -1,8 +1,9 @@
 # TikTokLiveDotNet
-This library provides an ability to subscribe and act on TikTok Live stream events (chat messages, gifts, etc.)
+This library provides an ability to subscribe and act on TikTok Live stream events (chat messages, gifts, etc.).
+Ispired by [TikTok-Live-Connector](https://github.com/zerodytrash/TikTok-Live-Connector) and [TikTokLiveSharp](https://github.com/sebheron/TikTokLiveSharp).
 
 # Usage
-Instal [NuGet package](https://www.nuget.org/packages/TikTokLiveDotNet/):
+Install [NuGet package](https://www.nuget.org/packages/TikTokLiveDotNet/):
 ```c#
 Install-Package TikTokLiveDotNet
 ```

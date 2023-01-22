@@ -29,3 +29,5 @@ await tikTokLiveStreamClient.Connect();
 
 # Examples
 Example project here - [TikTokLiveDotNet.Example](https://github.com/uaspro/TikTokLiveDotNet/tree/main/TikTokLiveDotNet.Example)
+
+![image](https://user-images.githubusercontent.com/1931585/213922229-e8fd6638-1843-4e9c-bea7-43bd349c1c23.png)

@@ -11,7 +11,8 @@ Install-Package TikTokLiveDotNet
 
 Setup client:
 ```c#
-using var tikTokLiveStreamClient = new TikTokLiveClient("{streamLinkOrNickname}");
+var streamLink = @"https://www.tiktok.com/@username/live";
+using var tikTokLiveStreamClient = new TikTokLiveClient(streamLink);
 ```
 
 Configure event handler(s):

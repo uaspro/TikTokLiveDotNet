@@ -1,4 +1,5 @@
-﻿using TikTokLiveDotNet;
+using System.Text;
+using TikTokLiveDotNet;
 
 var exitEvent = new ManualResetEvent(false);
 

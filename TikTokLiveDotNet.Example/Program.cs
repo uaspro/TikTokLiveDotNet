@@ -2,6 +2,8 @@
 
 var exitEvent = new ManualResetEvent(false);
 
+Console.OutputEncoding = Encoding.Unicode;
+
 Console.WriteLine("Enter stream URL or streamer nickname:");
 
 string streamLinkOrStreamerNickname;

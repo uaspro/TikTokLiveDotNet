@@ -34,4 +34,4 @@ Example project here - [TikTokLiveDotNet.Example](https://github.com/uaspro/TikT
 ![image](https://user-images.githubusercontent.com/1931585/213922229-e8fd6638-1843-4e9c-bea7-43bd349c1c23.png)
 
 # Notes
-- Some VPN software can prevent library from working correctly, in case if you face with connectivity issues and use some specific VPN, please try to switch to another one.
+- Some VPN software can cause problems with this library. If you're having trouble establishing connection and you're using a VPN, try turning it off or using a different one. 
